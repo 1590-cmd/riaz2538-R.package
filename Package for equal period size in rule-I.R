@@ -51,8 +51,8 @@ if((v-1)%%p==0)
 
 # Algorithm from paper:
 
-#  Muhammad Riaz, M. H. Tahir, Mahmood ul Hassan
-#   H. M. Kashif Rasheed and Rashid Ahmed*
+#  Muhammad Riaz, Mahmood ul Hassan
+#   H. M. Kashif Rasheed, Abid khan and Rashid Ahmed*
 
 #
 # Coded by Riaz et al., 2021-2022 
